@@ -1,6 +1,6 @@
-import streamlit as st
 import requests
 import json
+import streamlit as st
 from places import get_companies_in_tech_park
 from dotenv import load_dotenv
 import os

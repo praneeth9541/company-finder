@@ -1,3 +1,4 @@
+import requests
 def get_companies_in_tech_park(api_key, tech_park_name):
     """
     Fetches a list of companies in a specified tech park using the Google Places API.
